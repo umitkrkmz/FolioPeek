@@ -1,0 +1,70 @@
+name: Hata bildirimi / Bug report
+description: FolioPeek'te karşılaştığınız bir sorunu bildirin. / Report a problem you ran into with FolioPeek.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **⚠️ Gizli belge paylaşmayın / Don't share private documents.** Kişisel ya da iş bilgisi içeren PDF'leri veya ekran görüntülerini eklemeyin. Örnek gerekiyorsa aynı sorunu gösteren uydurma bir belge kullanın.
+        Don't attach PDFs or screenshots with personal or business information. If an example is needed, use a made-up document that shows the same problem.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Ne oldu? / What happened?
+      description: Ne yaptınız, ne bekliyordunuz, ne oldu? / What did you do, what did you expect, what happened?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: feature
+    attributes:
+      label: Hangi özellik? / Which feature?
+      options:
+        - Açma, okuma, arama — Opening, reading, search
+        - Notlar — Notes
+        - Form doldurma, imza — Form filling, signing
+        - Sayfa düzenleme, sayfa ekleme — Page editing, inserting pages
+        - Birleştirme (liste veya tuval) — Merging (list or board)
+        - Görselden PDF, PDF'ten görsel — Images to PDF, PDF to images
+        - Yazdırma — Printing
+        - Belge özellikleri — Document properties
+        - "Pro: kalıcı karartma — Pro: permanent redaction"
+        - "Pro: yazı tanıma, aranabilir PDF — Pro: text recognition, searchable PDF"
+        - "Pro: parola ve gizlilik — Pro: password and privacy"
+        - "Pro: filigran, sayfa numarası, üst ve alt bilgi — Pro: watermark, page numbers, header and footer"
+        - Pro satın alma veya lisans — Pro purchase or license
+        - Ayarlar — Settings
+        - Diğer / Other
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: FolioPeek sürümü / FolioPeek version
+      description: Ayarlar → Hakkında. / Settings → About.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: Windows sürümü / Windows version
+      placeholder: "Windows 11 24H2"
+    validations:
+      required: true
+
+  - type: input
+    id: document
+    attributes:
+      label: Belge hakkında (isteğe bağlı) / About the document (optional)
+      placeholder: "taranmış / scanned, parolalı / password protected, form, 300 sayfa / 300 pages, hangi programla oluşturuldu / created with…"
+
+  - type: textarea
+    id: error-log
+    attributes:
+      label: Hata günlüğü (varsa) / Error log (if any)
+      description: FolioPeek klasöründeki error.log dosyasının içeriği. Yapıştırmadan önce içinde kişisel bilgi olmadığına bakın. / The contents of error.log in the FolioPeek folder. Check it for personal data before pasting.
+      render: text
