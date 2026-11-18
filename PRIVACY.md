@@ -1,6 +1,6 @@
 # FolioPeek — Gizlilik Politikası / Privacy Policy
 
-Son güncelleme / Last updated: 2026-11-19
+Son güncelleme / Last updated: 2026-11-18
 
 [Türkçe](#türkçe) · [English](#english)
 
