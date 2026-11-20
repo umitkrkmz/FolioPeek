@@ -15,7 +15,8 @@ FolioPeek is [in the Microsoft Store](https://apps.microsoft.com/detail/9N345C2X
   (eskiden GitHub'da yeni sorun bildirme sayfasına gidiyordu).
 - **Uygulamayı değerlendir:** *Yardım* menüsünde ve *Ayarlar → Hakkında*'da; Microsoft Store'daki değerlendirme
   sayfasını açar. Bağlanan Microsoft Store'dur; FolioPeek yine internete bağlanmaz.
-- **FolioPeek Pro** eklentisi Microsoft Store onayında; onaylanınca *PRO* düğmesinden satın alınabilecek.
+- **FolioPeek Pro** eklentisi Microsoft Store'da: *PRO* düğmesinden tek seferlik satın alınır; başka bir bilgisayarda ya da
+  yeniden kurduktan sonra *Satın alımı geri yükle* ile geri gelir.
 
 ### 1.0.0 — 2026-11-20
 
@@ -50,8 +51,8 @@ Microsoft Store'daki ilk sürüm.
   signing in (it used to open GitHub's new-issue page).
 - **Rate this app:** in the *Help* menu and *Settings → About*; opens the rating page in the Microsoft Store. The
   Microsoft Store connects, FolioPeek itself still never goes online.
-- The **FolioPeek Pro** add-on is in Microsoft Store certification; once approved it can be bought from the *PRO*
-  button.
+- The **FolioPeek Pro** add-on is in the Microsoft Store: a one-time purchase from the *PRO* button; on another PC or
+  after reinstalling, *Restore purchase* brings it back.
 
 ### 1.0.0 — 2026-11-20
 
