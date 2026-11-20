@@ -127,13 +127,12 @@ About 3 MB · Windows 10 (2004) and Windows 11 · Light and dark themes · Turki
 ## Bu repo / This repo
 
 FolioPeek kapalı kaynaklıdır ve bağımsız bir geliştiricinin işidir. Bu repo yalnızca gizlilik politikasını, belgeleri ve
-sorun bildirimlerini barındırır; kaynak kod veya kurulum dosyası içermez. Sorun ve önerileriniz için
-[buradan bildirebilirsiniz](https://github.com/umitkrkmz/FolioPeek/issues/new/choose); güvenlik açıkları için
-[SECURITY.md](SECURITY.md).
+sorun bildirimlerini barındırır; kaynak kod veya kurulum dosyası içermez. Yardım, sık sorulanlar ve iletişim:
+[SUPPORT.md](SUPPORT.md) · [zeynelumitkorkmaz@gmail.com](mailto:zeynelumitkorkmaz@gmail.com?subject=FolioPeek); güvenlik açıkları için [SECURITY.md](SECURITY.md).
 
 FolioPeek is closed source, made by an independent developer. This repo holds only the privacy policy, documentation and
-the issue tracker; it contains no source code or installers. Problems and ideas:
-[report them here](https://github.com/umitkrkmz/FolioPeek/issues/new/choose); security issues: [SECURITY.md](SECURITY.md).
+the issue tracker; it contains no source code or installers. Help, common questions and contact:
+[SUPPORT.md](SUPPORT.md) · [zeynelumitkorkmaz@gmail.com](mailto:zeynelumitkorkmaz@gmail.com?subject=FolioPeek); security issues: [SECURITY.md](SECURITY.md).
 
 ## Lisans / License
 

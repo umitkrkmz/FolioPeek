@@ -1,6 +1,6 @@
 # FolioPeek — Gizlilik Politikası / Privacy Policy
 
-Son güncelleme / Last updated: 2026-11-18
+Son güncelleme / Last updated: 2026-11-20
 
 [Türkçe](#türkçe) · [English](#english)
 
@@ -53,7 +53,7 @@ FolioPeek, 13 yaş altındaki çocuklar dahil kimseden kişisel veri toplamaz.
 
 ### Değişiklikler ve iletişim
 
-Bu politika, yeni bir yetki ya da veri işleme eklendiğinde güncellenir ve en üstteki tarih yenilenir. Sorularınız için [GitHub Issues](https://github.com/umitkrkmz/FolioPeek/issues) sayfasını kullanabilirsiniz.
+Bu politika, yeni bir yetki ya da veri işleme eklendiğinde güncellenir ve en üstteki tarih yenilenir. Sorularınız için [zeynelumitkorkmaz@gmail.com](mailto:zeynelumitkorkmaz@gmail.com?subject=FolioPeek) adresine e-posta gönderebilir ya da [GitHub Issues](https://github.com/umitkrkmz/FolioPeek/issues) sayfasını kullanabilirsiniz. Yardım ve sık sorulanlar: [SUPPORT.md](SUPPORT.md).
 
 ---
 
@@ -104,4 +104,4 @@ FolioPeek does not collect personal information from anyone, including children 
 
 ### Changes and contact
 
-This policy is updated whenever a new capability or data handling is added, and the date at the top is renewed. For questions, please use the [GitHub Issues](https://github.com/umitkrkmz/FolioPeek/issues) page.
+This policy is updated whenever a new capability or data handling is added, and the date at the top is renewed. For questions, e-mail [zeynelumitkorkmaz@gmail.com](mailto:zeynelumitkorkmaz@gmail.com?subject=FolioPeek) or use the [GitHub Issues](https://github.com/umitkrkmz/FolioPeek/issues) page. Help and common questions: [SUPPORT.md](SUPPORT.md).
