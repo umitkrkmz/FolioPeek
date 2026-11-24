@@ -53,7 +53,7 @@ ya da abonelik ödemeniz gerekmez.
 FolioPeek internete hiç bağlanmaz; uygulama paketinde ağ izni bile yoktur. Hesap, reklam, telemetri yok.
 Siz kaydetmedikçe dosyanız değişmez. Ayrıntılar: [Gizlilik politikası](PRIVACY.md).
 
-Yaklaşık 3 MB · Windows 10 (2004) ve Windows 11 · Açık ve koyu tema · Türkçe ve İngilizce
+Hafif ve hızlı · Windows 10 (2004) ve Windows 11 · Açık ve koyu tema · Türkçe ve İngilizce
 
 ### Ekran görüntüleri
 
@@ -103,7 +103,7 @@ no subscription.
 FolioPeek never goes online; its package does not even have network permission. No account, ads or telemetry.
 Your file only changes when you save. Details: [Privacy policy](PRIVACY.md).
 
-About 3 MB · Windows 10 (2004) and Windows 11 · Light and dark themes · Turkish and English
+Lightweight and fast · Windows 10 (2004) and Windows 11 · Light and dark themes · Turkish and English
 
 ### Screenshots
 
