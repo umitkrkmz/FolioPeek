@@ -9,7 +9,18 @@ FolioPeek is [in the Microsoft Store](https://apps.microsoft.com/detail/9N345C2X
 
 ## Türkçe
 
-### 1.0.1 — Microsoft Store onayı bekleniyor
+### 1.1.0
+
+**Yeni yazdırma penceresi** (Ctrl + P), ücretsiz:
+- Canlı önizleme: önizlemede ne görüyorsanız kağıda o basılır; kaydırılabilir, yakınlaştırılabilir, sığınca iki kağıt yan yana.
+- Yazıcının durumu (hazır, çevrimdışı, dikkat istiyor), "bu sayfa" seçeneği önizlemedeki sayfayı izler.
+- Otomatik yön (her sayfa kendi yönüyle), kopya ve harmanlama, renkli ya da siyah-beyaz.
+- İki taraflı baskı "kitap gibi" ya da "takvim gibi" seçilir; kağıdın hangi kenarından döneceğini FolioPeek seçer.
+- Daha fazla ayar: kağıt boyutu ve türü, baskı kalitesi, yaprak başına 1-2-4-6-9 sayfa, gerçek boyut / kağıda sığdır / özel ölçek,
+  kenar boşluğu, notlar, ters sıra, kağıda tarih ve saat.
+- Seçimler her yazıcı için ayrı hatırlanır. Windows'un kendi penceresi Ctrl + Shift + P ile hâlâ bir tık uzakta.
+
+### 1.0.1
 
 - **Yardım → Destek ve sorun bildirme** artık giriş yapmadan okunabilen [yardım ve destek sayfasını](SUPPORT.md) açıyor
   (eskiden GitHub'da yeni sorun bildirme sayfasına gidiyordu).
@@ -45,7 +56,18 @@ Microsoft Store'daki ilk sürüm.
 
 ## English
 
-### 1.0.1 — awaiting Microsoft Store certification
+### 1.1.0
+
+**New print window** (Ctrl + P), free:
+- Live preview: what you see is what is printed; scrolls, zooms, two sheets side by side when they fit.
+- The printer's state (ready, offline, needs attention); "this page" follows the page in the preview.
+- Automatic orientation (each page the way it is), copies and collation, colour or black and white.
+- Two-sided printing chosen as "like a book" or "like a calendar"; FolioPeek picks the paper edge.
+- More settings: paper size and type, print quality, 1-2-4-6-9 pages per sheet, actual size / fit to paper / custom scale,
+  margins, notes, reverse order, date and time on paper.
+- Choices are remembered per printer. The Windows print dialog is still one click away with Ctrl + Shift + P.
+
+### 1.0.1
 
 - **Help → Help and report a problem** now opens the [help and support page](SUPPORT.md), which can be read without
   signing in (it used to open GitHub's new-issue page).

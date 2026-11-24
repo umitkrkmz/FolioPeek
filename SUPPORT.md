@@ -16,7 +16,7 @@
 
 **İçindekiler:** [Bize ulaşın](#bize-ulaşın) · [Başlarken](#başlarken) · [Okuma](#okuma) · [Notlar](#notlar) ·
 [Doldur ve imzala](#doldur-ve-imzala) · [Birleştirme](#birleştirme) · [Sayfa düzenleme](#sayfa-düzenleme) ·
-[Görseller](#görseller) · [Belge özellikleri](#belge-özellikleri) · [Pro](#pro) · [Gizlilik](#gizlilik) ·
+[Görseller](#görseller) · [Belge özellikleri](#belge-özellikleri) · [Yazdırma](#yazdırma) · [Pro](#pro) · [Gizlilik](#gizlilik) ·
 [Sorun giderme](#sorun-giderme) · [Klavye kısayolları](#klavye-kısayolları)
 
 ### Bize ulaşın
@@ -102,6 +102,29 @@ Birleştirmede içindekiler, belge içi bağlantılar, form alanları ve notlar 
 *Dosya → Belge özellikleri…* (Ctrl + D): dosya adı, sayfa sayısı, boyut, PDF sürümü, tarihler ve belgede saklanan başlık,
 yazar, konu, anahtar kelimeler, oluşturan uygulama. Görmek ücretsizdir; düzenlemek ve temizlemek Pro'dadır.
 
+### Yazdırma
+
+*Dosya → Yazdır…* (Ctrl + P) FolioPeek'in yazdırma penceresini açar: solda **canlı önizleme**, sağda ayarlar. Önizlemede ne
+görüyorsanız kağıda o basılır.
+
+- **Önizleme:** tekerlekle kağıtlar arasında kaydırın, Ctrl + tekerlek ya da sağ alttaki düğmelerle yakınlaştırın. Kağıtlar
+  sığınca ikişer yan yana gösterilir.
+- **Yazıcı:** varsayılan ya da en son kullandığınız yazıcı seçili gelir. Yanındaki nokta Windows'un bildirdiği durumu gösterir:
+  yeşil hazır, sarı çevrimdışı ya da duraklatılmış (iş sıraya alınır), kırmızı dikkat istiyor (kağıt, kapak ya da bir hata).
+  Yazıcı yeni kapatıldıysa Windows bunu biraz geç fark edebilir.
+- **Sayfalar:** tümü, **bu sayfa** (önizlemede gördüğünüz sayfa), kenar çubuğunda seçili sayfalar ya da bir aralık (`1-3, 5, 8-`).
+- **Yön:** *Otomatik* her sayfayı kendi yönüyle kağıda oturtur; Dikey ya da Yatay seçerseniz sayfalar döndürülmez, küçültülür.
+- **İki taraflı** (yazıcınız destekliyorsa): *Kitap gibi* — kağıt yana çevrilince arka yüz düz okunur; *Takvim gibi* — yukarı
+  çevrilince. FolioPeek kağıdın hangi kenarından döneceğini (uzun ya da kısa) sayfa yönüne göre kendisi seçer.
+- **Daha fazla ayar:** kağıt boyutu ve türü, baskı kalitesi (ör. Taslak hızlı basar), yaprak başına 1-2-4-6-9 sayfa (slaytlar
+  için: 2 slayt dik kağıda alt alta, 4 slayt yatay kağıda 2 × 2), ölçek, kenar boşluğu, notlar, ters sıra ve **tarih ve saat**
+  (yalnızca kağıtta; dosya değişmez).
+- **Ölçek:** varsayılan *Gerçek boyut*tur; A4 belge A4 kağıda birebir oturur ve yalnızca yazıcının basamadığı birkaç milimetrelik
+  kenar kesilir. **Yazıcınız kenardaki çizgileri kesiyorsa** *Kağıda sığdır*'ı seçin, ölçeği %95 yapın ya da kenar boşluğunu
+  *Normal (10 mm)* seçin.
+- Seçimleriniz **her yazıcı için ayrı hatırlanır** (hangi sayfalar ve kaç kopya her seferinde yeniden seçilir).
+- Windows'un kendi yazdırma penceresini tercih ederseniz: pencerenin altındaki bağlantı ya da **Ctrl + Shift + P**.
+
 ### Pro
 
 Pro, iş belgeleriyle uğraşanlar için **tek seferlik** bir satın almadır; abonelik yoktur.
@@ -160,6 +183,13 @@ Olmazsa [e-postayla](mailto:zeynelumitkorkmaz@gmail.com?subject=FolioPeek%20Pro)
 </details>
 
 <details>
+<summary><b>Yazıcı kenardaki çizgileri ya da yazıları kesiyor</b></summary>
+
+Yazdırma penceresinde *Daha fazla ayar → Ölçek*'ten *Kağıda sığdır*'ı seçin ya da ölçeği %95 yapın; gerekirse kenar boşluğunu
+*Normal (10 mm)* seçin. Önizleme, kağıda tam olarak ne basılacağını gösterir.
+</details>
+
+<details>
 <summary><b>İmzam kaydedildi mi?</b></summary>
 
 Hayır. İmza yalnızca uygulama açıkken bellekte tutulur ve uygulamayı kapatınca silinir. Bir belgeye yerleştirip
@@ -185,7 +215,8 @@ görünmüyorsa hangi uygulamada açtığınızı yazarak bildirin.
 |---|---|
 | Ctrl + O | PDF aç |
 | Ctrl + S / Ctrl + Shift + S | Kaydet / Farklı kaydet |
-| Ctrl + P | Yazdır |
+| Ctrl + P | Yazdır (önizlemeli) |
+| Ctrl + Shift + P | Windows yazdırma penceresiyle yazdır |
 | Ctrl + D | Belge özellikleri |
 | Ctrl + W | Belgeyi kapat |
 | Ctrl + Z / Ctrl + Y | Geri al / Yinele |
@@ -206,7 +237,7 @@ Tüm liste uygulamada: *Yardım → Klavye kısayolları*.
 
 **Contents:** [Contact](#contact) · [Getting started](#getting-started) · [Reading](#reading) · [Notes](#notes) ·
 [Fill and sign](#fill-and-sign) · [Merging](#merging) · [Page editing](#page-editing) · [Images](#images) ·
-[Document properties](#document-properties) · [Pro](#pro-1) · [Privacy](#privacy) ·
+[Document properties](#document-properties) · [Printing](#printing) · [Pro](#pro-1) · [Privacy](#privacy) ·
 [Troubleshooting](#troubleshooting) · [Keyboard shortcuts](#keyboard-shortcuts)
 
 ### Contact
@@ -290,6 +321,30 @@ Merging keeps bookmarks, links inside the document, form fields and notes.
 *File → Document properties…* (Ctrl + D): file name, page count, size, PDF version, dates, and the title, author,
 subject, keywords and creating app stored in the document. Viewing is free; editing and clearing are part of Pro.
 
+### Printing
+
+*File → Print…* (Ctrl + P) opens FolioPeek's print window: a **live preview** on the left, the settings on the right. What you
+see in the preview is what is printed.
+
+- **Preview:** scroll through the sheets with the wheel, zoom with Ctrl + wheel or the buttons at the bottom right. Sheets sit two
+  side by side when they fit.
+- **Printer:** your default or last used printer comes first. The dot shows what Windows reports: green ready, yellow offline or
+  paused (the job waits), red needs attention (paper, cover or an error). Windows may notice a printer that was just switched off
+  only after a while.
+- **Pages:** all, **this page** (the page you see in the preview), the pages chosen in the sidebar, or a range (`1-3, 5, 8-`).
+- **Orientation:** *Automatic* lays each page on the paper the way it is; with Portrait or Landscape pages are not turned, they
+  shrink to fit.
+- **Two-sided** (when your printer can): *Like a book* — the back reads upright when you turn the sheet sideways; *Like a
+  calendar* — when you flip it upwards. FolioPeek picks the paper edge (long or short) from the page orientation.
+- **More settings:** paper size and type, print quality (Draft prints fast), 1-2-4-6-9 pages per sheet (for slides: 2 stack on
+  upright paper, 4 sit 2 × 2 on landscape paper), scale, margins, notes, reverse order and **date and time** (on paper only; the
+  file does not change).
+- **Scale:** *Actual size* by default; an A4 document lands exactly on A4 paper and only the few millimetres the printer cannot
+  print are lost. **If your printer cuts lines at the edges**, choose *Fit to paper*, set the scale to 95% or choose *Normal
+  (10 mm)* margins.
+- Your choices are **remembered per printer** (which pages and how many copies are chosen each time).
+- If you prefer the Windows print dialog: the link at the bottom of the window, or **Ctrl + Shift + P**.
+
 ### Pro
 
 Pro is a **one-time** purchase for people who work with business documents; there is no subscription.
@@ -348,6 +403,13 @@ If it still does not work, [e-mail me](mailto:zeynelumitkorkmaz@gmail.com?subjec
 </details>
 
 <details>
+<summary><b>The printer cuts lines or text at the edges</b></summary>
+
+In the print window choose *More settings → Scale → Fit to paper*, or set the scale to 95%; if needed choose *Normal (10 mm)*
+margins. The preview shows exactly what will be printed.
+</details>
+
+<details>
 <summary><b>Is my signature saved?</b></summary>
 
 No. It is kept in memory only while the app is open and is gone when you close it. Once you place it in a document and
@@ -373,7 +435,8 @@ Use *Settings → General → Default PDF app* to open Windows settings and choo
 |---|---|
 | Ctrl + O | Open PDF |
 | Ctrl + S / Ctrl + Shift + S | Save / Save as |
-| Ctrl + P | Print |
+| Ctrl + P | Print (with preview) |
+| Ctrl + Shift + P | Print with the Windows dialog |
 | Ctrl + D | Document properties |
 | Ctrl + W | Close document |
 | Ctrl + Z / Ctrl + Y | Undo / Redo |
