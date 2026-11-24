@@ -9,7 +9,7 @@ FolioPeek is [in the Microsoft Store](https://apps.microsoft.com/detail/9N345C2X
 
 ## Türkçe
 
-### 1.2.0
+### 1.2.0 — 2026-11-24
 
 - **Notlarım** (alıntı eklemek Pro'da): seçili metne ya da bir vurguya sağ tıklayıp *Notlarıma kaydet*. Alıntılar dosya ve
   sayfasıyla tek bir not defterinde toplanır (Ctrl + Shift + N, *Araçlar* menüsü, giriş ekranındaki kart): belgeye göre gruplu,
@@ -68,7 +68,7 @@ Microsoft Store'daki ilk sürüm.
 
 ## English
 
-### 1.2.0
+### 1.2.0 — 2026-11-24
 
 - **My notes** (adding a quote is Pro): right-click selected text or a highlight and choose *Save to my notes*. Quotes are
   collected with their file and page in one notebook (Ctrl + Shift + N, the *Tools* menu, a card on the home screen):
