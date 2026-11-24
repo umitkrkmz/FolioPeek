@@ -39,6 +39,7 @@ ya da abonelik ödemeniz gerekmez.
 - **Sayfa düzenleme:** döndürün, sıralayın, silin, ayırın, başka PDF'lerden sayfa ekleyin
 - **Görsellerden PDF**, PDF'ten PNG/JPEG
 - **Belge özellikleri (Ctrl + D):** başlık, yazar, oluşturan uygulama gibi gizli bilgileri görün
+- **Web'de ara:** seçili metni sağ tıkla Bing, Google ya da DuckDuckGo'da arayın
 - **Yazdırma;** her adım Ctrl + Z ile geri alınır
 
 ### Pro: iş belgeleri için, tek seferlik (abonelik yok)
@@ -47,6 +48,7 @@ ya da abonelik ödemeniz gerekmez.
 - **Yazı tanıma:** taranmış sayfadan metni kopyalayın, aranabilir PDF kaydedin; Windows'un kendi yazı tanımasıyla, çevrimdışı
 - **Parola ve gizlilik:** AES ile şifreleme; meta verileri düzenleme ve temizleme
 - **Filigran,** sayfa numarası, üst ve alt bilgi
+- **Notlarım:** belgelerden alıntıları sayfasıyla tek bir not defterinde toplayın, yorum ekleyin, Markdown/TXT olarak dışa aktarın
 
 ### Dosyalarınız sizde kalır
 
@@ -89,6 +91,7 @@ no subscription.
 - **Page editing:** rotate, reorder, delete, extract, insert pages from other PDFs
 - **Images to PDF**, PDF to PNG/JPEG
 - **Document properties (Ctrl + D):** see hidden details such as title, author and the app that created the file
+- **Search the web:** right-click selected text to search it on Bing, Google or DuckDuckGo
 - **Printing;** every step can be undone with Ctrl + Z
 
 ### Pro: for business documents, one-time (no subscription)
@@ -97,6 +100,7 @@ no subscription.
 - **Text recognition:** copy text from scanned pages and save searchable PDFs, with the text recognition built into Windows, offline
 - **Password and privacy:** AES encryption; edit and clear metadata
 - **Watermarks,** page numbers, headers and footers
+- **My notes:** collect quotes from your documents, with their page, in one notebook; add comments, export to Markdown/TXT
 
 ### Your files stay with you
 

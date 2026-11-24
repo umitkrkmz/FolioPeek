@@ -9,6 +9,18 @@ FolioPeek is [in the Microsoft Store](https://apps.microsoft.com/detail/9N345C2X
 
 ## Türkçe
 
+### 1.2.0
+
+- **Notlarım** (alıntı eklemek Pro'da): seçili metne ya da bir vurguya sağ tıklayıp *Notlarıma kaydet*. Alıntılar dosya ve
+  sayfasıyla tek bir not defterinde toplanır (Ctrl + Shift + N, *Araçlar* menüsü, giriş ekranındaki kart): belgeye göre gruplu,
+  aranabilir, her alıntıya kendi yorumunuz. **Sayfaya git** belgeyi açar ve alıntıyı birkaç saniye parlatır. Markdown/TXT
+  olarak dışa aktarılır. Kaydedilmiş notları okumak, açmak, silmek ve dışa aktarmak ücretsizdir. Notlar yalnızca bu
+  bilgisayarda tutulur.
+- **Web'de ara** (ücretsiz): seçili metne sağ tık → *Bing ile ara: "…"*; arama motoru *Ayarlar → Okuma*'dan (Bing, Google,
+  DuckDuckGo). Aramayı tarayıcınız yapar; FolioPeek internete bağlanmaz.
+- Bir vurguya sağ tıklamak artık vurguyu hemen silmiyor; *Vurguyu sil* ve *Notlarıma kaydet* seçenekli bir menü açıyor.
+- Birkaç işi başarıyla bitirdikten sonra Microsoft Store'un değerlendirme penceresi bir kez gösterilebilir; bir daha sorulmaz.
+
 ### 1.1.0
 
 **Yeni yazdırma penceresi** (Ctrl + P), ücretsiz:
@@ -55,6 +67,18 @@ Microsoft Store'daki ilk sürüm.
 ---
 
 ## English
+
+### 1.2.0
+
+- **My notes** (adding a quote is Pro): right-click selected text or a highlight and choose *Save to my notes*. Quotes are
+  collected with their file and page in one notebook (Ctrl + Shift + N, the *Tools* menu, a card on the home screen):
+  grouped by document, searchable, with your own comment under each. **Go to page** opens the document and makes the quote
+  glow for a few seconds. Export to Markdown/TXT. Reading, opening, deleting and exporting saved notes are free. Notes are
+  kept only on this PC.
+- **Search the web** (free): right-click selected text → *Search Bing for "…"*; choose the engine in *Settings → Reading*
+  (Bing, Google, DuckDuckGo). Your browser does the search; FolioPeek does not go online.
+- Right-clicking a highlight no longer deletes it at once; it opens a menu with *Delete highlight* and *Save to my notes*.
+- After a few jobs finish successfully, the Microsoft Store's rating window may be shown once; it is never asked again.
 
 ### 1.1.0
 

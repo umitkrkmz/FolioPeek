@@ -54,6 +54,8 @@ dosyada çıkıyorsa önce bana yazın, birlikte güvenli bir yol buluruz.
 - **Gezinme:** Ctrl + G ile sayfaya gidin; F4 kenar çubuğunu (küçük resimler ve içindekiler) açıp kapatır.
   Sayfada orta tık otomatik kaydırmayı başlatır.
 - **Metin kopyalamak:** metni seçip Ctrl + C; *Düzen → Bu sayfadaki tüm metni seç* (Ctrl + A).
+- **Web'de aramak:** metni seçip sağ tıklayın → *Bing ile ara: "…"*. Arama varsayılan tarayıcınızda açılır; arama motorunu
+  *Ayarlar → Okuma → Web'de arama*'dan seçin (Bing, Google, DuckDuckGo). Seçimin en fazla ilk 200 karakteri aranır.
 
 ### Notlar
 
@@ -62,6 +64,22 @@ dosyada çıkıyorsa önce bana yazın, birlikte güvenli bir yol buluruz.
 - Renkler sayfanın üstünde beliren kapsülde; her adım Ctrl + Z ile geri alınır, Ctrl + Y ile yinelenir.
 - Notlar gerçek PDF notu olarak kaydedilir; Edge, Acrobat gibi başka uygulamalarda da görünür.
 - *Görünüm → Tüm notları gizle* notları geçici olarak gizler. Not rengi ve yazar adı *Ayarlar → Notlar*'dadır.
+- Bir **vurguya sağ tıklayınca** küçük bir menü açılır: *Vurguyu sil* ya da *Notlarıma kaydet*. Serbest çizim ve metin notu
+  sağ tıkla hemen silinir (Ctrl + Z geri getirir).
+
+### Notlarım
+
+Belgelerden alıntıları tek bir not defterinde toplayın (alıntı eklemek Pro'dadır; kaydedilmiş notları okumak, açmak, silmek
+ve dışa aktarmak her zaman ücretsizdir).
+
+- **Kaydetmek:** metni seçip sağ tıklayın ya da bir vurguya sağ tıklayın → *Notlarıma kaydet*. Aynı alıntı iki kez kaydedilmez.
+- **Açmak:** Ctrl + Shift + N, *Araçlar → Notlarım*, *Pro araçlar → Notlarım* ya da giriş ekranındaki **Notlarım** kartı.
+  Pencere açık kalır; belgeyle yan yana çalışabilirsiniz.
+- Notlar belgeye göre gruplanır. Her alıntının altına kendi **yorumunuzu** yazabilirsiniz; **Sayfaya git** belgeyi açar, alıntının
+  olduğu yere kaydırır ve alıntıyı birkaç saniye parlatır. Silinen bir not *Geri al* ile geri gelir.
+- **Dışa aktar:** Markdown (`.md`) ya da metin (`.txt`). Arama kutusu doluysa yalnızca bulunan notlar aktarılır.
+- Notlar yalnızca bu bilgisayarda tutulur ve **FolioPeek kaldırılınca silinir**; saklamak ya da başka bir bilgisayara taşımak
+  için dışa aktarın.
 
 ### Doldur ve imzala
 
@@ -147,7 +165,8 @@ Pro, iş belgeleriyle uğraşanlar için **tek seferlik** bir satın almadır; a
 ### Gizlilik
 
 FolioPeek internete hiç bağlanmaz; uygulama paketinde ağ izni yoktur. Hesap, reklam, telemetri yok. Belgeleriniz,
-ayarlarınız ve son açılanlar listesi yalnızca bu bilgisayarda kalır. Pro satın alma ve geri yükleme işlemlerini Microsoft
+ayarlarınız, Notlarım ve son açılanlar listesi yalnızca bu bilgisayarda kalır. *Web'de ara* yalnızca siz tıklayınca
+tarayıcınızı açar. Pro satın alma ve geri yükleme işlemlerini Microsoft
 Store yapar. Tüm ayrıntılar: [Gizlilik politikası](PRIVACY.md).
 
 ### Sorun giderme
@@ -197,7 +216,7 @@ kaydettiğinizde o belgenin parçası olur.
 </details>
 
 <details>
-<summary><b>Notlarım başka bir PDF uygulamasında görünmüyor</b></summary>
+<summary><b>Vurgu ve notlarım başka bir PDF uygulamasında görünmüyor</b></summary>
 
 Önce belgeyi kaydettiğinizden emin olun (sekme adının başında `*` kalmamalı). Notlar standart PDF notu olarak yazılır; yine de
 görünmüyorsa hangi uygulamada açtığınızı yazarak bildirin.
@@ -218,6 +237,7 @@ görünmüyorsa hangi uygulamada açtığınızı yazarak bildirin.
 | Ctrl + P | Yazdır (önizlemeli) |
 | Ctrl + Shift + P | Windows yazdırma penceresiyle yazdır |
 | Ctrl + D | Belge özellikleri |
+| Ctrl + Shift + N | Notlarım |
 | Ctrl + W | Belgeyi kapat |
 | Ctrl + Z / Ctrl + Y | Geri al / Yinele |
 | Ctrl + C / Ctrl + A | Kopyala / Bu sayfadaki tüm metni seç |
@@ -274,6 +294,8 @@ problem happens only with one file, write to me first and we will find a safe wa
 - **Moving around:** Ctrl + G goes to a page; F4 shows or hides the sidebar (thumbnails and bookmarks). Middle click
   on a page starts autoscroll.
 - **Copying text:** select it and press Ctrl + C; *Edit → Select all text on this page* (Ctrl + A).
+- **Searching the web:** select text, right-click → *Search Bing for "…"*. The search opens in your default browser; choose
+  the engine in *Settings → Reading → Web search* (Bing, Google, DuckDuckGo). At most the first 200 characters are searched.
 
 ### Notes
 
@@ -282,6 +304,22 @@ problem happens only with one file, write to me first and we will find a safe wa
 - Colours are in the pill that appears above the page; every step can be undone with Ctrl + Z and redone with Ctrl + Y.
 - Notes are saved as real PDF annotations, so they also show in other apps such as Edge or Acrobat.
 - *View → Hide all notes* hides them for a while. Note colours and the author name are in *Settings → Notes*.
+- **Right-clicking a highlight** opens a small menu: *Delete highlight* or *Save to my notes*. Freehand ink and text notes
+  are deleted at once with a right-click (Ctrl + Z brings them back).
+
+### My notes
+
+Collect quotes from your documents in one notebook (adding a quote is Pro; reading, opening, deleting and exporting saved
+notes are always free).
+
+- **Saving:** select text and right-click, or right-click a highlight → *Save to my notes*. The same quote is not saved twice.
+- **Opening:** Ctrl + Shift + N, *Tools → My notes*, *Pro tools → My notes*, or the **My notes** card on the home screen.
+  The window stays open, so you can work beside the document.
+- Notes are grouped by document. Write your own **comment** under each quote; **Go to page** opens the document, scrolls to
+  the quote and makes it glow for a few seconds. A deleted note comes back with *Undo*.
+- **Export:** Markdown (`.md`) or text (`.txt`). With text in the search box, only the notes found are exported.
+- Notes are kept only on this PC and are **removed when FolioPeek is uninstalled**; export them to keep them or move them
+  to another PC.
 
 ### Fill and sign
 
@@ -367,7 +405,8 @@ Pro is a **one-time** purchase for people who work with business documents; ther
 ### Privacy
 
 FolioPeek never goes online; its package does not even have network permission. No account, ads or telemetry. Your
-documents, settings and the recent documents list stay on this PC only. Buying and restoring Pro is handled by the
+documents, settings, My notes and the recent documents list stay on this PC only. *Search the web* opens your browser
+only when you click it. Buying and restoring Pro is handled by the
 Microsoft Store. Full details: [Privacy policy](PRIVACY.md).
 
 ### Troubleshooting
@@ -417,7 +456,7 @@ save, it becomes part of that document.
 </details>
 
 <details>
-<summary><b>My notes do not show in another PDF app</b></summary>
+<summary><b>My highlights and notes do not show in another PDF app</b></summary>
 
 First make sure you saved the document (no `*` left at the start of the tab name). Notes are written as standard PDF annotations; if
 they still do not show, let me know which app you opened it in.
@@ -438,6 +477,7 @@ Use *Settings → General → Default PDF app* to open Windows settings and choo
 | Ctrl + P | Print (with preview) |
 | Ctrl + Shift + P | Print with the Windows dialog |
 | Ctrl + D | Document properties |
+| Ctrl + Shift + N | My notes |
 | Ctrl + W | Close document |
 | Ctrl + Z / Ctrl + Y | Undo / Redo |
 | Ctrl + C / Ctrl + A | Copy / Select all text on this page |
