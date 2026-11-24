@@ -21,7 +21,7 @@ FolioPeek is [in the Microsoft Store](https://apps.microsoft.com/detail/9N345C2X
 - Bir vurguya sağ tıklamak artık vurguyu hemen silmiyor; *Vurguyu sil* ve *Notlarıma kaydet* seçenekli bir menü açıyor.
 - Birkaç işi başarıyla bitirdikten sonra Microsoft Store'un değerlendirme penceresi bir kez gösterilebilir; bir daha sorulmaz.
 
-### 1.1.0
+### 1.1.0 — 2026-11-24
 
 **Yeni yazdırma penceresi** (Ctrl + P), ücretsiz:
 - Canlı önizleme: önizlemede ne görüyorsanız kağıda o basılır; kaydırılabilir, yakınlaştırılabilir, sığınca iki kağıt yan yana.
@@ -32,7 +32,7 @@ FolioPeek is [in the Microsoft Store](https://apps.microsoft.com/detail/9N345C2X
   kenar boşluğu, notlar, ters sıra, kağıda tarih ve saat.
 - Seçimler her yazıcı için ayrı hatırlanır. Windows'un kendi penceresi Ctrl + Shift + P ile hâlâ bir tık uzakta.
 
-### 1.0.1
+### 1.0.1 — 2026-11-23
 
 - **Yardım → Destek ve sorun bildirme** artık giriş yapmadan okunabilen [yardım ve destek sayfasını](SUPPORT.md) açıyor
   (eskiden GitHub'da yeni sorun bildirme sayfasına gidiyordu).
@@ -80,7 +80,7 @@ Microsoft Store'daki ilk sürüm.
 - Right-clicking a highlight no longer deletes it at once; it opens a menu with *Delete highlight* and *Save to my notes*.
 - After a few jobs finish successfully, the Microsoft Store's rating window may be shown once; it is never asked again.
 
-### 1.1.0
+### 1.1.0 — 2026-11-24
 
 **New print window** (Ctrl + P), free:
 - Live preview: what you see is what is printed; scrolls, zooms, two sheets side by side when they fit.
@@ -91,7 +91,7 @@ Microsoft Store'daki ilk sürüm.
   margins, notes, reverse order, date and time on paper.
 - Choices are remembered per printer. The Windows print dialog is still one click away with Ctrl + Shift + P.
 
-### 1.0.1
+### 1.0.1 — 2026-11-23
 
 - **Help → Help and report a problem** now opens the [help and support page](SUPPORT.md), which can be read without
   signing in (it used to open GitHub's new-issue page).
